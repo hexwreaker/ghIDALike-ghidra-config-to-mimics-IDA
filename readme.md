@@ -1,18 +1,18 @@
 
 
-# ghidra-config-to-mimics-IDA
+# ghIDALike : mimics IDA style in ghidra
 
 Some Ghidra configurations to help users coming from IDA to use Ghidra.
 
 This repo contains Ghidra configuration files (themes, keyboard shortcuts, ...) that you can use to feele like IDA inb Ghidra.
-The configuration files here are modifications of other people work.
+The configuration files here are modifications and improvements of existing files (see original file link).
 
 ## Configuration files
 
-|parameters|name|original link|
+|parameters|name|original file link|
 |-|-|-|
-|Theme|magula.theme|https://github.com/lr-m/Ghidra-Themes/blob/main/highlight_js_themes/magula.theme|
-|Shortcuts|ghIDA.kbxml|https://github.com/nullteilerfrei/reversing-class/blob/master/ghIDA.kbxml|
+|Theme|ghIDALike-default.theme|https://github.com/lr-m/Ghidra-Themes/blob/main/highlight_js_themes/magula.theme|
+|Shortcuts|ghIDALike.kbxml|https://github.com/nullteilerfrei/reversing-class/blob/master/ghIDA.kbxml|
 
 ## How to 
 

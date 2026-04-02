@@ -751,7 +751,7 @@
         <STATE NAME="MouseBinding" TYPE="string" VALUE="" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Edit Function Signature (DecompilePlugin)" CLASS="ghidra.framework.options.WrappedActionTrigger">
-        <STATE NAME="KeyStroke" TYPE="string" VALUE="pressed F" />
+        <STATE NAME="KeyStroke" TYPE="string" VALUE="pressed Y" />
         <STATE NAME="MouseBinding" TYPE="string" VALUE="" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Set Stack Depth Change (FunctionPlugin)" CLASS="ghidra.framework.options.WrappedActionTrigger">

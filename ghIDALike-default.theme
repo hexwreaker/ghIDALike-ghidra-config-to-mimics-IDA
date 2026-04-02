@@ -1,12 +1,12 @@
-name = magula
+name = ghIDALike-default
 lookAndFeel = Flat Light
 useDarkDefaults = false
 
 // Custom color definitions
-color.custom.color1 = #005500
+color.custom.color1 = #6579FF
 color.custom.color2 = #000080
 color.custom.color3 = #777777
-color.custom.color4 = #880000
+color.custom.color4 = #880000 
 color.custom.color5 = #f4f4f4
 color.custom.color6 = #000000
 color.custom.color7 = #0000ee
@@ -14,6 +14,7 @@ color.custom.color8 = #042b00
 color.custom.color9 = #dbdbdb
 color.custom.color10 = #cfdccf
 color.custom.color11 = #c3d4c3
+color.custom.color12 = #008000
 
 // Core colors
 color.bg = color.custom.color5
@@ -32,7 +33,7 @@ color.fg.listing.comment.repeatable = color.custom.color3
 
 // Keyword and type colors
 color.fg.decompiler.keyword = color.custom.color2
-color.fg.decompiler.type = color.custom.color4
+color.fg.decompiler.type = color.custom.color2
 color.fg.listing.mnemonic = color.custom.color2
 color.fg.listing.label.local = color.custom.color2
 color.fg.listing.label.primary = color.custom.color7
@@ -46,18 +47,18 @@ color.fg.listing.mnemonic.override = color.custom.color7
 // Variable and register colors
 color.fg.decompiler.variable = color.custom.color1
 color.fg.decompiler.parameter = color.custom.color1
-color.fg.listing.register = color.custom.color1
+color.fg.listing.register = color.custom.color2
 color.fg.listing.block.start = color.custom.color2
 color.fg.listing.function.tag = color.custom.color7
-color.fg.listing.address = color.custom.color3
+color.fg.listing.address = color.custom.color6
 
 // Function and reference colors
 color.fg.decompiler.function.name = color.custom.color7
 color.fg.listing.function.name = color.custom.color7
 color.fg.listing.bytes = color.custom.color6
 color.fg.listing.ext.ref.unresolved = color.custom.color4
-color.fg.listing.function.variable = color.custom.color1
-color.fg.decompiler.global = color.custom.color4
+color.fg.listing.function.variable = color.custom.color12
+color.fg.decompiler.global = color.custom.color12
 
 // Constant and literal colors
 color.fg.decompiler.constant = color.custom.color8
@@ -99,4 +100,4 @@ color.bg.plugin.overview.address.undefined = color.custom.color6
 color.bg.plugin.overview.address.uninitialized = color.custom.color7
 color.bg.plugin.overview.address.external.ref = color.custom.color2
 
-font.monospaced = Ubuntu Mono-PLAIN-12
+font.monospaced = Courier 10 Pitch-PLAIN-13
